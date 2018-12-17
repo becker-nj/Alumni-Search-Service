@@ -1,8 +1,8 @@
 # Alumni-Search-Service
 ##Install Instructions
 '''
-npm install\n
-npm install missing\n
-npm install @material-ui/core\n
-npm install @material-ui/icons\n
+-npm install
+-npm install missing
+-npm install @material-ui/core
+-npm install @material-ui/icons
 '''
