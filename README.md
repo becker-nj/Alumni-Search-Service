@@ -1,4 +1,11 @@
 # Alumni-Search-Service
+Tools & Services Used: 
+* npm
+* React Javascript
+* Google Firebase Firestore
+* Google Storage
+* Flux Architecture
+
 Install Instructions:
 
 * npm install
